@@ -6,11 +6,3 @@ My professional focus lies at the intersection of analytics and strategy—trans
 
 This GitHub portfolio is a curated collection of projects that demonstrate my analytical capabilities and strategic thinking. I am eager to continue building meaningful solutions, collaborating with diverse teams, and contributing to data-led innovation.
 
- Areas of Interest
-
--Customer Behavior & Segmentation
--Churn Prediction & Retention Analytics
--Business Intelligence (BI) Dashboards
--Optimization Modeling (Transportation, Marketing Mix)
--A/B Testing, Funnel Analytics & Attribution
-
