@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Rishabh Jain!
 
-<!--
-**Ri-jain/Ri-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a business analyst with a background in management, currently pursuing my M.S. in Business Analytics at Northeastern University. With over three years of experience in high-growth startups, I specialize in applying data-driven strategies to enhance decision-making, optimize operations, and drive business performance.
 
-Here are some ideas to get you started:
+My professional focus lies at the intersection of analytics and strategy—translating complex datasets into actionable insights. I am proficient in tools such as Python, SQL, Tableau, Power BI, and Excel, and have hands-on experience in churn prediction, customer segmentation, optimization modeling, and KPI dashboard development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub portfolio is a curated collection of projects that demonstrate my analytical capabilities and strategic thinking. I am eager to continue building meaningful solutions, collaborating with diverse teams, and contributing to data-led innovation.
+
+ Areas of Interest
+
+-Customer Behavior & Segmentation
+-Churn Prediction & Retention Analytics
+-Business Intelligence (BI) Dashboards
+-Optimization Modeling (Transportation, Marketing Mix)
+-A/B Testing, Funnel Analytics & Attribution
+
